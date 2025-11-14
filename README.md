@@ -1,2 +1,3 @@
-# react
-react project - nike
+# React
+React Project - Nike
+Author - Asif Ali
